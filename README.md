@@ -1,7 +1,7 @@
 ## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
-You can play the game at: https://Zi-Tao.github.io/github-games/
+You can play the game at: https://zi-tao.github.io/reviewing-a-pull-request/
 To play the game:
 1. Go to the **Settings** tab of this repository.
 1. Scroll down to the section titled _GitHub Pages_
@@ -21,3 +21,23 @@ To play the game:
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Reviewing pull requests
+
+Step 1: [Assign Yourself](https://github.com/Zi-Tao/reviewing-a-pull-request/issues/1)
+
+Step 2: [Comment on a pull request](https://github.com/Zi-Tao/reviewing-a-pull-request/pull/2)
+
+Step 3: [Approve a pull request](https://github.com/Zi-Tao/reviewing-a-pull-request/pull/2)
+
+Step 4: [Requesting changes](https://github.com/Zi-Tao/reviewing-a-pull-request/pull/3)
+
+Step 5: [Practice reviews](https://github.com/Zi-Tao/reviewing-a-pull-request/pull/3)
+
+Step 6: [Open a pull request from readme-update](https://github.com/Zi-Tao/reviewing-a-pull-request/compare/readme-update?expand=1)
+
+Step 7: [Apply the suggestion](https://github.com/Zi-Tao/reviewing-a-pull-request/pull/3)
+
+Step 8: [Merge the pull request](https://github.com/Zi-Tao/reviewing-a-pull-request/pull/4)
